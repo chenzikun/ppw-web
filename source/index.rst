@@ -8,10 +8,10 @@ Welcome to web-3.2.8's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents:目录
 
-    发布
-    我的业务
+   发布
+   我的业务
 
 Indices and tables
 ==================
